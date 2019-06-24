@@ -1,2 +1,10 @@
 server:
   port: 8888
+
+spring:
+  boot:
+    admin:
+      ui:
+        cache.no-cache: true
+        extension-resource-locations: file:target/dist/
+        cache-templates: false

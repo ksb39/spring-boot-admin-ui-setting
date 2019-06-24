@@ -7,4 +7,5 @@ spring:
       ui:
         cache.no-cache: true
         extension-resource-locations: file:target/dist/
+        template-location: file:target/dist/
         cache-templates: false

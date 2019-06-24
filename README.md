@@ -12,3 +12,8 @@ npm run build
 
 spring boot start
 
+
+npm run watch : 소스수정시 자동으로 적용됨. 개발할 때 사용
+
+
+
